@@ -1,6 +1,8 @@
-![](https://capsule-render.vercel.app/api?type=waving&height=180&color=0:0d1b2a,100:415a77&text=Leo%20Morin&fontSize=42&fontAlignY=35&desc=AI%20Scientist%20%C2%B7%20Robotics&descAlignY=55&descSize=18&fontColor=ffffff)
-
-![](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1200&color=E0E1DD&center=true&vCenter=true&width=650&lines=AI+scientist+%7C+Master%27s+in+AI;On+my+way+to+a+PhD+in+applied+AI+for+robotics)
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:0d1b2a,100:415a77&text=Leo%20Morin&fontSize=42&fontAlignY=35&desc=AI%20Scientist%20%C2%B7%20Robotics&descAlignY=55&descSize=18&fontColor=ffffff" />
+  
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&color=E0E1DD&center=true&vCenter=true&width=650&lines=AI+scientist+%7C+Master%27s+in+AI;On+my+way+to+a+PhD+in+applied+AI+for+robotics" />
+</p>
 
 ### 🖥️ Languages
 
